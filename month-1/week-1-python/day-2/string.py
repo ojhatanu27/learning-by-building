@@ -10,3 +10,5 @@ myname=input("what is your name?")
 first,last=myname.split(" ")
 print(first)
 #python code can be written in interactive mode or in a script file
+#lstrip() removes spaces from the left side of the string   
+#rstrip() removes spaces from the right side of the string
